@@ -4,4 +4,4 @@
 可以將四個的框框看作是四次的`A = A xor B`，到第四次時(藍)已經變回第一次(紅)
 ![](https://github.com/KvN1027/swap_value_without_third/blob/main/xor_step_by_step.png)
 ## 分析交換過程step by step 
-
+![](https://github.com/KvN1027/swap_value_without_third/blob/main/two_xor.png)
